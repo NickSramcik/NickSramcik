@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **nick.sramcik@gmail.com**
 
-- ⚡ Fun fact **I'm a two-time marathon runner!**
+- ⚡ Fun fact: **There are over 1,000 wildfires each year in the state of California alone!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
