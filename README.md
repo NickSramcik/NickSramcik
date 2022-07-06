@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Wildland Firefighting and my Fire Finder web app**
 
-- 📫 How to reach me **nick.sramcik@gmail.com**
+- 📫 Reach me at **nick.sramcik@gmail.com**
 
 - ⚡ Fun fact **I'm a two-time marathon runner!**
 
