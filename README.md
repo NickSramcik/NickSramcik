@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Nick Sramcik</h1>
 <h3 align="center">Software engineer specializing in fullstack web development</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently working with **Javascript**
 
 - 💬 Ask me about **Wildland Firefighting and my Fire Finder web app**
 
